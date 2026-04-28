@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis
 
-<!--
-**celguanche/celguanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador en formación | Java · JavaFX · MySQL · Aplicaciones Multiplataforma
 
-Here are some ideas to get you started:
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**, con interés en el desarrollo de software, bases de datos, interfaces gráficas y soluciones reales que puedan utilizarse en entornos profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy construyendo proyectos propios para mejorar mi lógica de programación, mi organización de código y mi capacidad para desarrollar aplicaciones completas desde cero.
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de **DAM - Desarrollo de Aplicaciones Multiplataforma**
+- 💻 Enfocado principalmente en **Java**
+- 🗄️ Trabajando con bases de datos relacionales como **MySQL** y **Oracle SQL**
+- 🎨 Desarrollando interfaces gráficas con **JavaFX** y FXML
+- 🌐 Con conocimientos de redes gracias a prácticas con **Cisco Packet Tracer**
+- 📈 Buscando mejorar cada día como desarrollador y prepararme para prácticas profesionales
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Desarrollo y herramientas
+![JavaFX](https://img.shields.io/badge/JavaFX-3874B8?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
