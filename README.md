@@ -13,7 +13,7 @@ Actualmente estoy construyendo proyectos propios para mejorar mi lógica de prog
 - 🎓 Estudiante de **DAM - Desarrollo de Aplicaciones Multiplataforma**
 - 💻 Enfocado principalmente en **Java**
 - 🗄️ Trabajando con bases de datos relacionales como **MySQL** y **Oracle SQL**
-- 🎨 Desarrollando interfaces gráficas con **JavaFX** y FXML
+- 🎨 Desarrollando interfaces gráficas con **JavaFX**
 - 🌐 Con conocimientos de redes gracias a prácticas con **Cisco Packet Tracer**
 - 📈 Buscando mejorar cada día como desarrollador y prepararme para prácticas profesionales
 
@@ -24,7 +24,6 @@ Actualmente estoy construyendo proyectos propios para mejorar mi lógica de prog
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
